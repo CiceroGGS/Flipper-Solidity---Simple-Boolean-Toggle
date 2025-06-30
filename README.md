@@ -1,13 +1,15 @@
 ## Foundry
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**Foundry é um kit de ferramentas extremamente rápido, portátil e modular para o desenvolvimento de aplicações Ethereum escrito em Rust.
 
-Foundry consists of:
+O Foundry é composto por:
 
-- **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
-- **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
-- **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
-- **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+- **Forge**: Estrutura de teste Ethereum (como Truffle, Hardhat e DappTools).
+- **Cast**: Canivete suíço para interagir com contratos inteligentes EVM, enviar transacções e obter dados da cadeia.
+- Bigorna**: Nó Ethereum local, semelhante ao Ganache, Hardhat Network.
+- Cinzel**: REPL de solidity rápido, utilitário e verboso.
+
+Traduzido com a versão gratuita do tradutor - DeepL.com
 
 ## Documentation
 
