@@ -6,8 +6,8 @@ O Foundry é composto por:
 
 - **Forge**: Estrutura de teste Ethereum (como Truffle, Hardhat e DappTools).
 - **Cast**: Canivete suíço para interagir com contratos inteligentes EVM, enviar transacções e obter dados da cadeia.
-- Bigorna**: Nó Ethereum local, semelhante ao Ganache, Hardhat Network.
-- Cinzel**: REPL de solidity rápido, utilitário e verboso.
+- **Anvil**: Nó Ethereum local, semelhante ao Ganache, Hardhat Network.
+- **chisel**: REPL de solidity rápido, utilitário e verboso.
 
 Traduzido com a versão gratuita do tradutor - DeepL.com
 
